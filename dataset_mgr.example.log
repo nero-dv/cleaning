@@ -1,0 +1,80 @@
+INFO:2024-06-28 09:01:55,471:Output directory G:/AI/datasets/cleaning/example_subset_extracted created
+INFO:2024-06-28 09:01:55,471:Initialized DatasetManager with dataset_path: E:/AI/pexels-photos-janpf and checklist_path: G:/AI/datasets/cleaning/example_subset.txt
+INFO:2024-06-28 09:01:55,502:Listed zip files in dataset: ['0_0-3.zip', '0_4-7.zip', '0_8-b.zip', '0_c-f.zip', '1_0-3.zip', '1_4-7.zip', '1_8-b.zip', '1_c-f.zip', '2_0-3.zip', '2_4-7.zip', '2_8-b.zip', '2_c-f.zip', '3_0-3.zip', '3_4-7.zip', '3_8-b.zip', '3_c-f.zip', '4_0-3.zip', '4_4-7.zip', '4_8-b.zip', '5_0-3.zip', '5_4-7.zip', '5_8-b.zip', '5_c-f.zip', '6_0-3.zip', '6_4-7.zip', '6_8-b.zip', '6_c-f.zip', '7_0-3.zip', '7_4-7.zip', '7_8-b.zip', '7_c-f.zip', '8_0-3.zip', '8_4-7.zip', '8_8-b.zip', '8_c-f.zip', '9_0-3.zip', '9_4-7.zip', '9_8-b.zip', '9_c-f.zip', 'a_0-3.zip', 'a_4-7.zip', 'a_8-b.zip', 'a_c-f.zip', 'b_0-3.zip', 'b_4-7.zip', 'b_8-b.zip', 'b_c-f.zip', 'c_0-3.zip', 'c_4-7.zip', 'c_8-b.zip', 'c_c-f.zip', 'd_0-3.zip', 'd_4-7.zip', 'd_8-b.zip', 'd_c-f.zip', 'e_0-3.zip', 'e_4-7.zip', 'e_8-b.zip', 'e_c-f.zip', 'f_0-3.zip', 'f_4-7.zip', 'f_8-b.zip', 'f_c-f.zip']
+INFO:2024-06-28 09:01:55,502:Checking folders in zip file: E:/AI/pexels-photos-janpf\0_0-3.zip
+INFO:2024-06-28 09:01:55,518:Checking folders in zip file: E:/AI/pexels-photos-janpf\0_4-7.zip
+INFO:2024-06-28 09:01:55,534:Checking folders in zip file: E:/AI/pexels-photos-janpf\0_8-b.zip
+INFO:2024-06-28 09:01:55,534:Checking folders in zip file: E:/AI/pexels-photos-janpf\0_c-f.zip
+INFO:2024-06-28 09:01:55,550:Checking folders in zip file: E:/AI/pexels-photos-janpf\1_0-3.zip
+INFO:2024-06-28 09:01:55,565:Checking folders in zip file: E:/AI/pexels-photos-janpf\1_4-7.zip
+INFO:2024-06-28 09:01:55,565:Checking folders in zip file: E:/AI/pexels-photos-janpf\1_8-b.zip
+INFO:2024-06-28 09:01:55,581:Checking folders in zip file: E:/AI/pexels-photos-janpf\1_c-f.zip
+INFO:2024-06-28 09:01:55,581:Checking folders in zip file: E:/AI/pexels-photos-janpf\2_0-3.zip
+INFO:2024-06-28 09:01:55,596:Checking folders in zip file: E:/AI/pexels-photos-janpf\2_4-7.zip
+INFO:2024-06-28 09:01:55,612:Checking folders in zip file: E:/AI/pexels-photos-janpf\2_8-b.zip
+INFO:2024-06-28 09:01:55,629:Checking folders in zip file: E:/AI/pexels-photos-janpf\2_c-f.zip
+INFO:2024-06-28 09:01:55,629:Checking folders in zip file: E:/AI/pexels-photos-janpf\3_0-3.zip
+INFO:2024-06-28 09:01:55,644:Checking folders in zip file: E:/AI/pexels-photos-janpf\3_4-7.zip
+INFO:2024-06-28 09:01:55,659:Checking folders in zip file: E:/AI/pexels-photos-janpf\3_8-b.zip
+INFO:2024-06-28 09:01:55,659:Checking folders in zip file: E:/AI/pexels-photos-janpf\3_c-f.zip
+INFO:2024-06-28 09:01:55,675:Checking folders in zip file: E:/AI/pexels-photos-janpf\4_0-3.zip
+INFO:2024-06-28 09:01:55,691:Checking folders in zip file: E:/AI/pexels-photos-janpf\4_4-7.zip
+INFO:2024-06-28 09:01:55,691:Checking folders in zip file: E:/AI/pexels-photos-janpf\4_8-b.zip
+INFO:2024-06-28 09:01:55,706:Checking folders in zip file: E:/AI/pexels-photos-janpf\5_0-3.zip
+INFO:2024-06-28 09:01:55,706:Checking folders in zip file: E:/AI/pexels-photos-janpf\5_4-7.zip
+INFO:2024-06-28 09:01:55,722:Checking folders in zip file: E:/AI/pexels-photos-janpf\5_8-b.zip
+INFO:2024-06-28 09:01:55,729:Checking folders in zip file: E:/AI/pexels-photos-janpf\5_c-f.zip
+INFO:2024-06-28 09:01:55,738:Checking folders in zip file: E:/AI/pexels-photos-janpf\6_0-3.zip
+INFO:2024-06-28 09:01:55,753:Checking folders in zip file: E:/AI/pexels-photos-janpf\6_4-7.zip
+INFO:2024-06-28 09:01:55,753:Checking folders in zip file: E:/AI/pexels-photos-janpf\6_8-b.zip
+INFO:2024-06-28 09:01:55,769:Checking folders in zip file: E:/AI/pexels-photos-janpf\6_c-f.zip
+INFO:2024-06-28 09:01:55,769:Checking folders in zip file: E:/AI/pexels-photos-janpf\7_0-3.zip
+INFO:2024-06-28 09:01:55,785:Checking folders in zip file: E:/AI/pexels-photos-janpf\7_4-7.zip
+INFO:2024-06-28 09:01:55,801:Checking folders in zip file: E:/AI/pexels-photos-janpf\7_8-b.zip
+INFO:2024-06-28 09:01:55,801:Checking folders in zip file: E:/AI/pexels-photos-janpf\7_c-f.zip
+INFO:2024-06-28 09:01:55,816:Checking folders in zip file: E:/AI/pexels-photos-janpf\8_0-3.zip
+INFO:2024-06-28 09:01:55,830:Checking folders in zip file: E:/AI/pexels-photos-janpf\8_4-7.zip
+INFO:2024-06-28 09:01:55,832:Checking folders in zip file: E:/AI/pexels-photos-janpf\8_8-b.zip
+INFO:2024-06-28 09:01:55,848:Checking folders in zip file: E:/AI/pexels-photos-janpf\8_c-f.zip
+INFO:2024-06-28 09:01:55,848:Checking folders in zip file: E:/AI/pexels-photos-janpf\9_0-3.zip
+INFO:2024-06-28 09:01:55,863:Checking folders in zip file: E:/AI/pexels-photos-janpf\9_4-7.zip
+INFO:2024-06-28 09:01:55,863:Checking folders in zip file: E:/AI/pexels-photos-janpf\9_8-b.zip
+INFO:2024-06-28 09:01:55,879:Checking folders in zip file: E:/AI/pexels-photos-janpf\9_c-f.zip
+INFO:2024-06-28 09:01:55,895:Checking folders in zip file: E:/AI/pexels-photos-janpf\a_0-3.zip
+INFO:2024-06-28 09:01:55,905:Checking folders in zip file: E:/AI/pexels-photos-janpf\a_4-7.zip
+INFO:2024-06-28 09:01:55,916:Checking folders in zip file: E:/AI/pexels-photos-janpf\a_8-b.zip
+INFO:2024-06-28 09:01:55,916:Checking folders in zip file: E:/AI/pexels-photos-janpf\a_c-f.zip
+INFO:2024-06-28 09:01:55,932:Checking folders in zip file: E:/AI/pexels-photos-janpf\b_0-3.zip
+INFO:2024-06-28 09:01:55,932:Checking folders in zip file: E:/AI/pexels-photos-janpf\b_4-7.zip
+INFO:2024-06-28 09:01:55,948:Checking folders in zip file: E:/AI/pexels-photos-janpf\b_8-b.zip
+INFO:2024-06-28 09:01:55,963:Checking folders in zip file: E:/AI/pexels-photos-janpf\b_c-f.zip
+INFO:2024-06-28 09:01:55,963:Checking folders in zip file: E:/AI/pexels-photos-janpf\c_0-3.zip
+INFO:2024-06-28 09:01:55,979:Checking folders in zip file: E:/AI/pexels-photos-janpf\c_4-7.zip
+INFO:2024-06-28 09:01:55,979:Checking folders in zip file: E:/AI/pexels-photos-janpf\c_8-b.zip
+INFO:2024-06-28 09:01:55,994:Checking folders in zip file: E:/AI/pexels-photos-janpf\c_c-f.zip
+INFO:2024-06-28 09:01:55,994:Checking folders in zip file: E:/AI/pexels-photos-janpf\d_0-3.zip
+INFO:2024-06-28 09:01:56,019:Checking folders in zip file: E:/AI/pexels-photos-janpf\d_4-7.zip
+INFO:2024-06-28 09:01:56,028:Checking folders in zip file: E:/AI/pexels-photos-janpf\d_8-b.zip
+INFO:2024-06-28 09:01:56,032:Checking folders in zip file: E:/AI/pexels-photos-janpf\d_c-f.zip
+INFO:2024-06-28 09:01:56,048:Checking folders in zip file: E:/AI/pexels-photos-janpf\e_0-3.zip
+INFO:2024-06-28 09:01:56,048:Checking folders in zip file: E:/AI/pexels-photos-janpf\e_4-7.zip
+INFO:2024-06-28 09:01:56,063:Checking folders in zip file: E:/AI/pexels-photos-janpf\e_8-b.zip
+INFO:2024-06-28 09:01:56,063:Checking folders in zip file: E:/AI/pexels-photos-janpf\e_c-f.zip
+INFO:2024-06-28 09:01:56,079:Checking folders in zip file: E:/AI/pexels-photos-janpf\f_0-3.zip
+INFO:2024-06-28 09:01:56,079:Checking folders in zip file: E:/AI/pexels-photos-janpf\f_4-7.zip
+INFO:2024-06-28 09:01:56,094:Checking folders in zip file: E:/AI/pexels-photos-janpf\f_8-b.zip
+INFO:2024-06-28 09:01:56,110:Checking folders in zip file: E:/AI/pexels-photos-janpf\f_c-f.zip
+INFO:2024-06-28 09:01:56,110:Reconstructed zip name map: {'0': '0_0-3.zip', '1': '0_0-3.zip', '2': '0_0-3.zip', '3': '0_0-3.zip', '4': '0_4-7.zip', '5': '0_4-7.zip', '6': '0_4-7.zip', '7': '0_4-7.zip', '8': '0_8-b.zip', '9': '0_8-b.zip', 'a': '0_8-b.zip', 'b': '0_8-b.zip', 'c': '0_c-f.zip', 'd': '0_c-f.zip', 'e': '0_c-f.zip', 'f': '0_c-f.zip', '10': '1_0-3.zip', '11': '1_0-3.zip', '12': '1_0-3.zip', '13': '1_0-3.zip', '14': '1_4-7.zip', '15': '1_4-7.zip', '16': '1_4-7.zip', '17': '1_4-7.zip', '18': '1_8-b.zip', '19': '1_8-b.zip', '1a': '1_8-b.zip', '1b': '1_8-b.zip', '1c': '1_c-f.zip', '1d': '1_c-f.zip', '1e': '1_c-f.zip', '1f': '1_c-f.zip', '20': '2_0-3.zip', '21': '2_0-3.zip', '22': '2_0-3.zip', '23': '2_0-3.zip', '24': '2_4-7.zip', '25': '2_4-7.zip', '26': '2_4-7.zip', '27': '2_4-7.zip', '28': '2_8-b.zip', '29': '2_8-b.zip', '2a': '2_8-b.zip', '2b': '2_8-b.zip', '2c': '2_c-f.zip', '2d': '2_c-f.zip', '2e': '2_c-f.zip', '2f': '2_c-f.zip', '30': '3_0-3.zip', '31': '3_0-3.zip', '32': '3_0-3.zip', '33': '3_0-3.zip', '34': '3_4-7.zip', '35': '3_4-7.zip', '36': '3_4-7.zip', '37': '3_4-7.zip', '38': '3_8-b.zip', '39': '3_8-b.zip', '3a': '3_8-b.zip', '3b': '3_8-b.zip', '3c': '3_c-f.zip', '3d': '3_c-f.zip', '3e': '3_c-f.zip', '3f': '3_c-f.zip', '40': '4_0-3.zip', '41': '4_0-3.zip', '42': '4_0-3.zip', '43': '4_0-3.zip', '44': '4_4-7.zip', '45': '4_4-7.zip', '46': '4_4-7.zip', '47': '4_4-7.zip', '48': '4_8-b.zip', '49': '4_8-b.zip', '4a': '4_8-b.zip', '4b': '4_8-b.zip', '50': '5_0-3.zip', '51': '5_0-3.zip', '52': '5_0-3.zip', '53': '5_0-3.zip', '54': '5_4-7.zip', '55': '5_4-7.zip', '56': '5_4-7.zip', '57': '5_4-7.zip', '58': '5_8-b.zip', '59': '5_8-b.zip', '5a': '5_8-b.zip', '5b': '5_8-b.zip', '5c': '5_c-f.zip', '5d': '5_c-f.zip', '5e': '5_c-f.zip', '5f': '5_c-f.zip', '60': '6_0-3.zip', '61': '6_0-3.zip', '62': '6_0-3.zip', '63': '6_0-3.zip', '64': '6_4-7.zip', '65': '6_4-7.zip', '66': '6_4-7.zip', '67': '6_4-7.zip', '68': '6_8-b.zip', '69': '6_8-b.zip', '6a': '6_8-b.zip', '6b': '6_8-b.zip', '6c': '6_c-f.zip', '6d': '6_c-f.zip', '6e': '6_c-f.zip', '6f': '6_c-f.zip', '70': '7_0-3.zip', '71': '7_0-3.zip', '72': '7_0-3.zip', '73': '7_0-3.zip', '74': '7_4-7.zip', '75': '7_4-7.zip', '76': '7_4-7.zip', '77': '7_4-7.zip', '78': '7_8-b.zip', '79': '7_8-b.zip', '7a': '7_8-b.zip', '7b': '7_8-b.zip', '7c': '7_c-f.zip', '7d': '7_c-f.zip', '7e': '7_c-f.zip', '7f': '7_c-f.zip', '80': '8_0-3.zip', '81': '8_0-3.zip', '82': '8_0-3.zip', '83': '8_0-3.zip', '84': '8_4-7.zip', '85': '8_4-7.zip', '86': '8_4-7.zip', '87': '8_4-7.zip', '88': '8_8-b.zip', '89': '8_8-b.zip', '8a': '8_8-b.zip', '8b': '8_8-b.zip', '8c': '8_c-f.zip', '8d': '8_c-f.zip', '8e': '8_c-f.zip', '8f': '8_c-f.zip', '90': '9_0-3.zip', '91': '9_0-3.zip', '92': '9_0-3.zip', '93': '9_0-3.zip', '94': '9_4-7.zip', '95': '9_4-7.zip', '96': '9_4-7.zip', '97': '9_4-7.zip', '98': '9_8-b.zip', '99': '9_8-b.zip', '9a': '9_8-b.zip', '9b': '9_8-b.zip', '9c': '9_c-f.zip', '9d': '9_c-f.zip', '9e': '9_c-f.zip', '9f': '9_c-f.zip', 'a0': 'a_0-3.zip', 'a1': 'a_0-3.zip', 'a2': 'a_0-3.zip', 'a3': 'a_0-3.zip', 'a4': 'a_4-7.zip', 'a5': 'a_4-7.zip', 'a6': 'a_4-7.zip', 'a7': 'a_4-7.zip', 'a8': 'a_8-b.zip', 'a9': 'a_8-b.zip', 'aa': 'a_8-b.zip', 'ab': 'a_8-b.zip', 'ac': 'a_c-f.zip', 'ad': 'a_c-f.zip', 'ae': 'a_c-f.zip', 'af': 'a_c-f.zip', 'b0': 'b_0-3.zip', 'b1': 'b_0-3.zip', 'b2': 'b_0-3.zip', 'b3': 'b_0-3.zip', 'b4': 'b_4-7.zip', 'b5': 'b_4-7.zip', 'b6': 'b_4-7.zip', 'b7': 'b_4-7.zip', 'b8': 'b_8-b.zip', 'b9': 'b_8-b.zip', 'ba': 'b_8-b.zip', 'bb': 'b_8-b.zip', 'bc': 'b_c-f.zip', 'bd': 'b_c-f.zip', 'be': 'b_c-f.zip', 'bf': 'b_c-f.zip', 'c0': 'c_0-3.zip', 'c1': 'c_0-3.zip', 'c2': 'c_0-3.zip', 'c3': 'c_0-3.zip', 'c4': 'c_4-7.zip', 'c5': 'c_4-7.zip', 'c6': 'c_4-7.zip', 'c7': 'c_4-7.zip', 'c8': 'c_8-b.zip', 'c9': 'c_8-b.zip', 'ca': 'c_8-b.zip', 'cb': 'c_8-b.zip', 'cc': 'c_c-f.zip', 'cd': 'c_c-f.zip', 'ce': 'c_c-f.zip', 'cf': 'c_c-f.zip', 'd0': 'd_0-3.zip', 'd1': 'd_0-3.zip', 'd2': 'd_0-3.zip', 'd3': 'd_0-3.zip', 'd4': 'd_4-7.zip', 'd5': 'd_4-7.zip', 'd6': 'd_4-7.zip', 'd7': 'd_4-7.zip', 'd8': 'd_8-b.zip', 'd9': 'd_8-b.zip', 'da': 'd_8-b.zip', 'db': 'd_8-b.zip', 'dc': 'd_c-f.zip', 'dd': 'd_c-f.zip', 'de': 'd_c-f.zip', 'df': 'd_c-f.zip', 'e0': 'e_0-3.zip', 'e1': 'e_0-3.zip', 'e2': 'e_0-3.zip', 'e3': 'e_0-3.zip', 'e4': 'e_4-7.zip', 'e5': 'e_4-7.zip', 'e6': 'e_4-7.zip', 'e7': 'e_4-7.zip', 'e8': 'e_8-b.zip', 'e9': 'e_8-b.zip', 'ea': 'e_8-b.zip', 'eb': 'e_8-b.zip', 'ec': 'e_c-f.zip', 'ed': 'e_c-f.zip', 'ee': 'e_c-f.zip', 'ef': 'e_c-f.zip', 'f0': 'f_0-3.zip', 'f1': 'f_0-3.zip', 'f2': 'f_0-3.zip', 'f3': 'f_0-3.zip', 'f4': 'f_4-7.zip', 'f5': 'f_4-7.zip', 'f6': 'f_4-7.zip', 'f7': 'f_4-7.zip', 'f8': 'f_8-b.zip', 'f9': 'f_8-b.zip', 'fa': 'f_8-b.zip', 'fb': 'f_8-b.zip', 'fc': 'f_c-f.zip', 'fd': 'f_c-f.zip', 'fe': 'f_c-f.zip', 'ff': 'f_c-f.zip'}
+INFO:2024-06-28 09:01:56,110:Read directory checklist from G:/AI/datasets/cleaning/example_subset.txt
+INFO:2024-06-28 09:01:56,280:Extracting 77/77462fcca8bd602e802826eed35ef3c1.jpg from E:\AI\pexels-photos-janpf\7_4-7.zip to G:/AI/datasets/cleaning/example_subset_extracted
+INFO:2024-06-28 09:01:56,280:Extracting 77/772ebcc38d47a7909f51d26b5e1c4a93.jpg from E:\AI\pexels-photos-janpf\7_4-7.zip to G:/AI/datasets/cleaning/example_subset_extracted
+INFO:2024-06-28 09:01:56,280:Extracting c0/c0647d367103e087d73924efafd43714.jpg from E:\AI\pexels-photos-janpf\c_0-3.zip to G:/AI/datasets/cleaning/example_subset_extracted
+INFO:2024-06-28 09:01:56,296:Extracting c0/c0f37b1818b5ad6ef0c5c165c556d3fc.jpg from E:\AI\pexels-photos-janpf\c_0-3.zip to G:/AI/datasets/cleaning/example_subset_extracted
+INFO:2024-06-28 09:01:56,296:Extracting c0/c0443c1ef5263b98a76fd23e6a00d577.jpg from E:\AI\pexels-photos-janpf\c_0-3.zip to G:/AI/datasets/cleaning/example_subset_extracted
+INFO:2024-06-28 09:01:56,296:Extracting c0/c03006a9af22f77533c822097eb9a20e.jpg from E:\AI\pexels-photos-janpf\c_0-3.zip to G:/AI/datasets/cleaning/example_subset_extracted
+INFO:2024-06-28 09:01:56,312:Extracted 77/77462fcca8bd602e802826eed35ef3c1.jpg to G:/AI/datasets/cleaning/example_subset_extracted
+INFO:2024-06-28 09:01:56,312:Extracted 77/772ebcc38d47a7909f51d26b5e1c4a93.jpg to G:/AI/datasets/cleaning/example_subset_extracted
+INFO:2024-06-28 09:01:56,327:Extracted c0/c0f37b1818b5ad6ef0c5c165c556d3fc.jpg to G:/AI/datasets/cleaning/example_subset_extracted
+INFO:2024-06-28 09:01:56,330:Extracted c0/c0443c1ef5263b98a76fd23e6a00d577.jpg to G:/AI/datasets/cleaning/example_subset_extracted
+INFO:2024-06-28 09:01:56,330:Extracted c0/c0647d367103e087d73924efafd43714.jpg to G:/AI/datasets/cleaning/example_subset_extracted
+INFO:2024-06-28 09:01:56,330:Extracted c0/c03006a9af22f77533c822097eb9a20e.jpg to G:/AI/datasets/cleaning/example_subset_extracted
