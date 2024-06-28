@@ -1,0 +1,8 @@
+woman-list/
+test_extract/
+bin/
+__pycache__/
+.venv/
+thoughts.txt
+woman-list.txt
+dataset_mgr.log
